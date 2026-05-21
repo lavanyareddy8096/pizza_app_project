@@ -1,18 +1,6 @@
-<<<<<<< HEAD
-# OIBSIP_WebDevelopment_Task1
-
-# 🍕 Full Stack Pizza Ordering Web App
-
-This project is developed as part of my Web Development Internship at Oasis Infobyte.
-
----
-
-=======
 
 
 # 🍕 Full Stack Pizza Ordering Web App
----
->>>>>>> 1d7bce68526708b13e4fdcc232b6a0d2c02afb83
 ## 📌 Objective
 
 To build a full stack web application where users can customize and order pizzas, and admins can manage orders, inventory, and track order status.
@@ -94,12 +82,6 @@ To build a full stack web application where users can customize and order pizzas
 ## 🚀 How to Run Locally
 
 ### 1. Clone Repository
-
-<<<<<<< HEAD
-git clone https://github.com/adarsh4k/OIBSIP_WebDevelopment_Task1.git  
-cd OIBSIP_WebDevelopment_Task1  
-
----
 =======
 git clone :https://github.com/lavanyareddy8096/Lavanya-pizza-app.git
 >>>>>>> 1d7bce68526708b13e4fdcc232b6a0d2c02afb83
@@ -152,24 +134,12 @@ Successfully built a full stack web application with authentication, payment int
 ## 🔗 Links
 
 <<<<<<< HEAD
-- GitHub Repository: https://github.com/adarsh4k/OIBSIP_WebDevelopment_Task1  
-
-
----
-
-## 🙌 Acknowledgment
-
-Thanks to Oasis Infobyte for providing this internship opportunity.
-
----
-
-## 📌 Author
-
-Adarsh
-=======
-- GitHub Repository: https://github.com/lavanyareddy8096/Lavanya-pizza-app.git
+- GitHub Repository: 
 
 ## 📌 Author
 
 Lavanya
->>>>>>> 1d7bce68526708b13e4fdcc232b6a0d2c02afb83
+=======
+- GitHub Repository: https://github.com/lavanyareddy8096/Lavanya-pizza-app.git
+
+
