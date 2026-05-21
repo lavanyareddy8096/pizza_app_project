@@ -1,11 +1,7 @@
 
 
 # 🍕 Full Stack Pizza Ordering Web App
-
-This project is developed as part of my Web Development Internship at Oasis Infobyte.
-
 ---
-
 ## 📌 Objective
 
 To build a full stack web application where users can customize and order pizzas, and admins can manage orders, inventory, and track order status.
