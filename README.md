@@ -140,7 +140,7 @@ Successfully built a full stack web application with authentication, payment int
 
 ## 🔗 Links
 
-- GitHub Repository: https://github.com/adarsh4k/OIBSIP_WebDevelopment_Task1  
+- GitHub Repository: https://github.com/lavanyareddy8096/Lavanya-pizza-app.git
 
 
 ---
@@ -153,4 +153,4 @@ Thanks to Oasis Infobyte for providing this internship opportunity.
 
 ## 📌 Author
 
-Adarsh
+Lavanya
