@@ -84,10 +84,7 @@ To build a full stack web application where users can customize and order pizzas
 
 ### 1. Clone Repository
 
-git clone https://github.com/adarsh4k/OIBSIP_WebDevelopment_Task1.git  
-cd OIBSIP_WebDevelopment_Task1  
-
----
+git clone :https://github.com/lavanyareddy8096/Lavanya-pizza-app.git
 
 ### 2. Install Dependencies
 
@@ -137,15 +134,6 @@ Successfully built a full stack web application with authentication, payment int
 ## 🔗 Links
 
 - GitHub Repository: https://github.com/lavanyareddy8096/Lavanya-pizza-app.git
-
-
----
-
-## 🙌 Acknowledgment
-
-Thanks to Oasis Infobyte for providing this internship opportunity.
-
----
 
 ## 📌 Author
 
