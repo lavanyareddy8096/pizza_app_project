@@ -83,9 +83,7 @@ To build a full stack web application where users can customize and order pizzas
 
 ### 1. Clone Repository
 =======
-git clone :https://github.com/lavanyareddy8096/Lavanya-pizza-app.git
->>>>>>> 1d7bce68526708b13e4fdcc232b6a0d2c02afb83
-
+git clone :https://github.com/lavanyareddy8096/pizza_app_project.git
 ### 2. Install Dependencies
 
 Backend:
@@ -133,13 +131,9 @@ Successfully built a full stack web application with authentication, payment int
 
 ## 🔗 Links
 
-<<<<<<< HEAD
-- GitHub Repository: 
+- GitHub Repository: https://github.com/lavanyareddy8096/pizza_app_project.git
 
 ## 📌 Author
 
 Lavanya
-=======
-- GitHub Repository: https://github.com/lavanyareddy8096/Lavanya-pizza-app.git
-
 
